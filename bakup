@@ -1,56 +1,65 @@
 "code": "00000",
 "text": "success",
-"data": [{
- "type": 1,
- "domain": "http://192.168.10.33:7480/movie/",
- "sort": 0,
- "remarks": "s3 文件地址"
-}, {
- "type": 0,
- "domain": "http://192.168.10.54:8000",
- "sort": 0
-}, {
- "type": 2,
- "domain": "http://192.168.1.1:8888",
- "sort": 0
-}, {
- "type": 3,
- "domain": "http://172.112.1.1:9999",
- "sort": 0
-}, {
- "type": 0,
- "domain": "http://168.110.9.88:8080",
- "sort": 0
-}, {
- "type": 2,
- "domain": "http://192.168.2.2:9999",
- "sort": 0
-}, {
- "type": 2,
- "domain": "http://simplegirl.com",
- "sort": 0
-}, {
- "type": 2,
- "domain": "http://crazygirl.com",
- "sort": 0
-}, {
- "type": 3,
- "domain": "http://176.111.12.19:8080",
- "sort": 0
-}, {
- "type": 4,
- "domain": "http://sina.com",
- "sort": 1
-}, {
- "type": 4,
- "domain": "http://crazygirl.blog.com",
- "sort": 1
-}, {
- "type": 4,
- "domain": "http://crazyfucking.blog.com",
- "sort": 1
-}, {
- "type": 4,
- "domain": "http://bigcock.blog.com",
- "sort": 1
-}]
+"data": {
+ "update": {
+   "update": 0,
+   "version": 1,
+   "date": "2019-06-27"
+ },
+
+
+ [{
+   "type": 1,
+   "domain": "http://192.168.10.33:7480/movie/",
+   "sort": 0,
+   "remarks": "s3 文件地址"
+ }, {
+   "type": 0,
+   "domain": "http://192.168.10.54:8000",
+   "sort": 0
+ }, {
+   "type": 2,
+   "domain": "http://192.168.1.1:8888",
+   "sort": 0
+ }, {
+   "type": 3,
+   "domain": "http://172.112.1.1:9999",
+   "sort": 0
+ }, {
+   "type": 0,
+   "domain": "http://168.110.9.88:8080",
+   "sort": 0
+ }, {
+   "type": 2,
+   "domain": "http://192.168.2.2:9999",
+   "sort": 0
+ }, {
+   "type": 2,
+   "domain": "http://simplegirl.com",
+   "sort": 0
+ }, {
+   "type": 2,
+   "domain": "http://crazygirl.com",
+   "sort": 0
+ }, {
+   "type": 3,
+   "domain": "http://176.111.12.19:8080",
+   "sort": 0
+ }, {
+   "type": 4,
+   "domain": "http://sina.com",
+   "sort": 1
+ }, {
+   "type": 4,
+   "domain": "http://crazygirl.blog.com",
+   "sort": 1
+ }, {
+   "type": 4,
+   "domain": "http://crazyfucking.blog.com",
+   "sort": 1
+ }, {
+   "type": 4,
+   "domain": "http://bigcock.blog.com",
+   "sort": 1
+ }]
+}
