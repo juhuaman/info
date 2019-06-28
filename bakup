@@ -1,13 +1,6 @@
 "code": "00000",
 "text": "success",
 "data": {
- "update": {
-   "update": 0,
-   "version": 1,
-   "date": "2019-06-27"
- },
-
-
  [{
    "type": 1,
    "domain": "http://192.168.10.33:7480/movie/",
